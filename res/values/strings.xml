@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<resources>
+    <string name="app_name">TabletNuke</string>
+    <string name="launcher_name">Wipe Data</string>
+    <string name="enable_device_admin">Enable Device Admin</string>
+    <string name="reset_device">Nuke Tablet</string>
+    <string name="device_admin_enabled">Device Admin Enabled</string>
+    <string name="device_admin_disabled">Device Admin Disabled</string>
+    <string name="dashboard_label">OSUL TabletNuke</string>
+    <string name="dashboard_warning">WARNING!</string>
+    <string name="dashboard_text">Pressing the button will reboot the tablet and wipe all data. Slight chance of zombies. Proceed with caution.</string>
+</resources>
