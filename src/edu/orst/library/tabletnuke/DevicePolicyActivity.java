@@ -12,9 +12,6 @@ import android.widget.CompoundButton;
 import android.widget.CompoundButton.OnCheckedChangeListener;
 import android.widget.Toast;
 import android.widget.ToggleButton;
-//import android.content.res.AssetFileDescriptor;
-//import java.io.IOException;
-import com.newrelic.agent.android.NewRelic;
 
 public class DevicePolicyActivity extends Activity implements
 		OnCheckedChangeListener {
